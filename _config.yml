@@ -2,7 +2,7 @@
 title: d00x
 email: dan@axelby.com
 description: "A cross-language cross-target software platform"
-baseurl: "http://www.d00x.com/"
+baseurl: "/d00x"
 url: "http://www.d00x.com/"
 twitter_username: axelby
 github_username:  thasmin
