@@ -18,4 +18,6 @@ Here is a small list of issues that the industry is currently experiencing:
 There's no reason to let this continue. We can fix these problems. d00x will start.
 
 [Plea to the Software Industry](plea)
+
+## Design
 [Initial Ideas For the d00x Parser](parser)
